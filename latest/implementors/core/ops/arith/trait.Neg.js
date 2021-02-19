@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rascaline"] = [{"text":"impl Neg for Vector3D","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Neg for &amp;'a Vector3D","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Neg for &amp;'a mut Vector3D","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

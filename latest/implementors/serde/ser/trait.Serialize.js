@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rascaline"] = [{"text":"impl Serialize for SortedDistances","synthetic":false,"types":[]},{"text":"impl Serialize for RadialBasis","synthetic":false,"types":[]},{"text":"impl Serialize for CutoffFunction","synthetic":false,"types":[]},{"text":"impl Serialize for SphericalExpansionParameters","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

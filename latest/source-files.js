@@ -1,0 +1,3 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["rascaline"] = {"name":"","dirs":[{"name":"calculators","dirs":[{"name":"soap","files":["hypergeometric.rs","mod.rs","radial_integral.rs","spherical_expansion.rs","spherical_harmonics.rs"]}],"files":["dummy_calculator.rs","mod.rs","sorted_distances.rs"]},{"name":"descriptor","dirs":[{"name":"indexes","files":["environments.rs","index.rs","mod.rs","species.rs"]}],"files":["descriptor.rs","mod.rs"]},{"name":"system","files":["cell.rs","mod.rs","simple_system.rs"]},{"name":"types","files":["matrix.rs","mod.rs","vectors.rs"]}],"files":["calculator.rs","errors.rs","lib.rs","math.rs"]};
+createSourceSidebar();

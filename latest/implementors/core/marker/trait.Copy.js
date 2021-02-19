@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rascaline"] = [{"text":"impl Copy for Vector3D","synthetic":false,"types":[]},{"text":"impl Copy for Matrix3","synthetic":false,"types":[]},{"text":"impl Copy for UnitCell","synthetic":false,"types":[]},{"text":"impl Copy for Pair","synthetic":false,"types":[]},{"text":"impl Copy for IndexValue","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Copy for HyperGeometricParameters&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Copy for GTOParameters","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

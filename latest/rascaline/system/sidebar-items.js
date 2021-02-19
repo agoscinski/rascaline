@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Pair","Pair of atoms coming from a neighbor list."],["SimpleSystem","A simple implementation of `System` to use when no other is available"],["UnitCell","An `UnitCell` defines the system physical boundaries."]],"trait":[["System","A `System` deals with the storage of atoms and related information, as well as the computation of neighbor lists."]]});

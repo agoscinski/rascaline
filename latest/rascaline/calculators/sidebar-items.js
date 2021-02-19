@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["soap",""]],"struct":[["SortedDistances",""],["SphericalExpansion",""],["SphericalExpansionParameters",""]],"trait":[["CalculatorBase","TODO: docs"]]});

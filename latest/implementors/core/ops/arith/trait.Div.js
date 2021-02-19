@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rascaline"] = [{"text":"impl Div&lt;f64&gt; for Vector3D","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Div&lt;f64&gt; for &amp;'a Vector3D","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Div&lt;f64&gt; for &amp;'a mut Vector3D","synthetic":false,"types":[]},{"text":"impl Div&lt;f64&gt; for Matrix3","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Div&lt;f64&gt; for &amp;'a Matrix3","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Div&lt;f64&gt; for &amp;'a mut Matrix3","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

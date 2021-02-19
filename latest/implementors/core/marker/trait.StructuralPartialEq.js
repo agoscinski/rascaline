@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rascaline"] = [{"text":"impl StructuralPartialEq for Vector3D","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for Matrix3","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for UnitCell","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for IndexValue","synthetic":false,"types":[]},{"text":"impl StructuralPartialEq for Indexes","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
